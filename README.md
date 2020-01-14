@@ -6,8 +6,6 @@ The [`video_player`](https://pub.dartlang.org/packages/video_player) plugin prov
 
 ## Demo
 
-![Demo](https://github.com/brianegan/chewie/raw/master/assets/chewie_demo.gif)
-
 ## Installation
 
 In your `pubspec.yaml` file within your Flutter Project: 
